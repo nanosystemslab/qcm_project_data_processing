@@ -94,7 +94,7 @@ pip install argparse glob2 logging os re dateutil matplotlib numpy pandas seabor
 To generate the visualizations, run the Python script found in the `src/` directory. The script processes the data in the `data/` directory and outputs the figures to the `out/` directory.
 
 ```bash
-python src/plot_viz.py
+python3 src/plot_viz.py
 ```
 
 Make sure to have all required libraries installed before running the script.
