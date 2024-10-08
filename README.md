@@ -98,3 +98,23 @@ python3 src/plot_viz.py
 ```
 
 Make sure to have all required libraries installed before running the script.
+
+
+### Citation
+
+If you use this repository, please cite it as follows:
+
+You can cite all versions by using the DOI `10.5281/zenodo.13901559`. This DOI represents all versions and will always resolve to the latest one. [Read more](https://doi.org/10.5281/zenodo.13901559).
+
+For this specific release:
+
+```bibtex
+@misc{nakamura_qcm_project_2024,
+  author       = {Matthew Nakamura},
+  title        = {{nanosystemslab/qcm\_project\_data\_processing: Initial Release of QCM Project Data Processing (v1.0.0)}},
+  month        = oct,
+  year         = 2024,
+  doi          = {10.5281/zenodo.13901560},
+  url          = {https://doi.org/10.5281/zenodo.13901560}
+}
+```
